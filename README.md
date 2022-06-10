@@ -1,2 +1,2 @@
 # guessing-game
- Guessing Game using Javascript
+ Guessing Game (console)
